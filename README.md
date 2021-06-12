@@ -1,5 +1,6 @@
 # Snake-Game
-Simple snake game in assembly language.
+Simple snake game.
+Written in assembly language.
 Implements Simple Design.
 Only one level Availabe.
 Common game rules.

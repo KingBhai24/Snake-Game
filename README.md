@@ -1,5 +1,5 @@
 # Snake-Game
-Simple snake game.
+2D Snake game.
 Written in assembly language.
 Implements Simple Design.
 Only one level Availabe.
